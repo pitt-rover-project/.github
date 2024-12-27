@@ -1,4 +1,4 @@
-# Pitt SOAR
+# Pitt Rover Project
 
 <!--
 
